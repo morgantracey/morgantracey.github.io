@@ -3,7 +3,8 @@ $color-primary: #369;
 $background-color: #fff;
 $text-color: #323a45;
 $link-color: $color-primary;
-$color-muted: #eee;
+$color-muted: #ccc;
+$color-borders: #eee;
 
 // Fonts
 $font-serif: "Source Serif Pro", Georgia, serif;
@@ -19,7 +20,7 @@ $font-weight--ultra: 900;
 $body-font: $font-serif;
 $header-font: $font-sans;
 $font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
-$font-size--small: 1.3em;
+$font-size--small: 1.3rem;
 $line-height: 1.7;
 
 // Layout
@@ -43,18 +44,20 @@ $header-background: #fff;
 $header-padding: 1rem;
 $header-link-color: #2a2a2a;
 $header-border-style: 1px solid;
-$header-border-color: $color-muted;
+$header-border-color: $color-borders;
 $header-border-sides: bottom;
 $header-width: 100%;
 
-// Header
+// Footer
 $footer-background: $header-background;
 $footer-padding: $header-padding;
 $footer-link-color: $header-link-color;
 $footer-width: $header-width;
 $footer-border-style: 1px solid;
-$footer-border-color: $color-muted;
+$footer-border-color: $header-border-color;
 $footer-border-sides: top;
+$footer-font-size: $font-size--small;
+$footer-font-color: #ccc;
 
 // Breakpoint
 $breakpoint: 769px;

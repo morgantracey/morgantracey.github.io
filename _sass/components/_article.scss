@@ -9,3 +9,12 @@
     text-align: left;
   }
 }
+
+.post-content p:first-child {
+  margin-top: 0;
+}
+
+
+.post-meta {
+  color: $color-muted;
+}
