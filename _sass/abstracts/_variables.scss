@@ -1,0 +1,27 @@
+// Colors
+$brand-color: #369;
+$background-color: #fff;
+$text-color: #323a45;
+$link-color: $brand-color;
+$color-muted: #eee;
+
+// Fonts
+$font-serif: "Source Serif Pro", Georgia, serif;
+$font-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
+$font-code: "Source Code Pro";
+
+$font-weight--thin: 100;
+$font-weight--light: 300;
+$font-weight--medium: 400;
+$font-weight--bold: 700;
+$font-weight--ultra: 900;
+
+
+$body-font: $font-serif;
+$header-font: $font-sans;
+$font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
+$font-size--small: 1.3em;
+$line-height: 1.7;
+
+// Layout
+$spacing-unit: 30px;
