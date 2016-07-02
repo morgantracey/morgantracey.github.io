@@ -1,8 +1,8 @@
 // Colors
-$brand-color: #369;
+$color-primary: #369;
 $background-color: #fff;
 $text-color: #323a45;
-$link-color: $brand-color;
+$link-color: $color-primary;
 $color-muted: #eee;
 
 // Fonts
@@ -16,7 +16,6 @@ $font-weight--medium: 400;
 $font-weight--bold: 700;
 $font-weight--ultra: 900;
 
-
 $body-font: $font-serif;
 $header-font: $font-sans;
 $font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
@@ -25,3 +24,18 @@ $line-height: 1.7;
 
 // Layout
 $spacing-unit: 30px;
+
+// Branding
+$brand-font: $font-sans;
+$brand-color: #fff;
+$brand-text-transform: none;
+$brand-color--hover: darken($brand-color, 15%);
+$brand-text-decoration--hover: none;
+
+// Header
+$header-background: #2a2a2a;
+$header-padding: 1rem;
+$header-link-color: #fff;
+
+// Breakpoint
+$breakpoint: 769px;

@@ -1,4 +1,9 @@
 .brand {
   font-weight: $font-weight--bold;
-  text-transform: uppercase;
+  text-transform: $brand-text-transform;
+  color: $brand-color;
+  &:hover {
+    color: $brand-color--hover;
+    text-decoration: $brand-text-decoration--hover;
+  }
 }
