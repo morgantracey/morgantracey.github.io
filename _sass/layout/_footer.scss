@@ -10,6 +10,10 @@
   width: 100%;
   margin: 0 auto;
 
+  p {
+    margin: 0;
+  }
+
   @media(min-width: $breakpoint) {
     flex-direction: row;
     width: $footer-width;

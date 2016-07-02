@@ -46,15 +46,15 @@ ul, ol, dl, figure,
 
 
 
-/**
- * Figures
- */
-figure > img {
+figure {
+  margin: 0;
+  > img {
     display: block;
-}
+  }
 
-figcaption {
-    font-size: $font-size--small;
+  figcaption {
+      font-size: $font-size--small;
+  }
 }
 
 /**
