@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ site.locale | slice: 0,2 }}">
   {% include head.html %}
   <body>
     {% include header.html %}
-    <main class="container">
+    <main>
       {{content}}
     </main>
     {% include footer.html %}
