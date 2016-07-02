@@ -24,18 +24,32 @@ $line-height: 1.7;
 
 // Layout
 $spacing-unit: 30px;
+$max-container-width: 700px;
 
 // Branding
 $brand-font: $font-sans;
-$brand-color: #fff;
+$brand-color: #2a2a2a;
 $brand-text-transform: none;
 $brand-color--hover: darken($brand-color, 15%);
 $brand-text-decoration--hover: none;
 
 // Header
-$header-background: #2a2a2a;
+$header-background: #fff;
 $header-padding: 1rem;
-$header-link-color: #fff;
+$header-link-color: #2a2a2a;
+$header-border-style: 1px solid;
+$header-border-color: $color-muted;
+$header-border-sides: bottom;
+$header-width: 100%;
+
+// Header
+$footer-background: $header-background;
+$footer-padding: $header-padding;
+$footer-link-color: $header-link-color;
+$footer-width: $header-width;
+$footer-border-style: 1px solid;
+$footer-border-color: $color-muted;
+$footer-border-sides: top;
 
 // Breakpoint
 $breakpoint: 769px;

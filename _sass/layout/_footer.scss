@@ -1,21 +1,21 @@
-.site-header {
-  @include border($header-border-style, $header-border-color, $header-border-sides);
+.site-footer {
+  @include border($footer-border-style, $footer-border-color, $footer-border-sides);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  background: $header-background;
+  background: $footer-background;
   text-align: center;
-  padding: $header-padding;
+  padding: $footer-padding;
   width: 100%;
   margin: 0 auto;
 
   @media(min-width: $breakpoint) {
     flex-direction: row;
-    width: $header-width;
+    width: $footer-width;
   }
 
   nav a {
-    color: $header-link-color;
+    color: $footer-link-color;
   }
 }
