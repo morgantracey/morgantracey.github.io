@@ -1,0 +1,18 @@
+---
+---
+
+/* TEAM */
+
+Creator:        Kyle Tress
+Twitter:        @kyletress
+GitHub:         kyletress
+Location:       Phoenix, AZ, USA
+
+/* SITE */
+
+Last update:   {{ site.time | date: '%Y/%m/%d - %Z' }}
+Language:       English
+Software:       Jekyll {{ jekyll.version }} <http://jekyllrb.com>
+                Atom <http://www.atom.io>
+                Terminal.app
+                Git + GitHub Pages
