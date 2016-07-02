@@ -1,0 +1,11 @@
+.post header {
+  text-align: center;
+  padding: 6rem 0;
+  h1, h2, p {
+    margin: 0;
+  }
+
+  @media(min-width: $breakpoint) {
+    text-align: left;
+  }
+}
