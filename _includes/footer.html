@@ -1,3 +1,14 @@
 <footer class="site-footer">
   <p>&copy; {{ site.title }}, {{ site.time | date: '%Y' }}. Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+  {% if site.data.nav.footer %}
+  <nav>
+    {% for nav in site.data.nav.footer %}
+      {% assign class = nil %}
+      {% if page.url contains nav.url %}
+        {% assign class = 'is--active' %}
+      {% endif %}
+      <a href="{{nav.url}}"{% if class %} class="{{class}}"{% endif%}>{{nav.title}}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
 </footer>

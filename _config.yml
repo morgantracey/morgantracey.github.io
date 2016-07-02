@@ -10,3 +10,10 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 permalink: /:title
+
+# Files
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock

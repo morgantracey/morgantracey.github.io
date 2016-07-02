@@ -3,3 +3,6 @@ header:
     url: /
   - title: About
     url: /about
+footer:
+  - title: Credits
+    url: / 
