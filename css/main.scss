@@ -19,6 +19,9 @@
 
 @import
   "layout/header",
-  "layout/navigation.scss",
+  "layout/navigation",
   "layout/footer",
   "layout/layout";
+
+@import
+  "vendor/font-awesome/font-awesome";
