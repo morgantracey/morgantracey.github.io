@@ -3,10 +3,18 @@ header:
     url: /
   - title: About
     url: /about
-  - title: Posts
-    url: /posts
-  - title: Contact
-    url: /contact
+  - title: Blog
+    url: /blog
+  - title: Skeleton
+    url: /skeleton
+  - title: Sponsorship
+    url: /Sponsorship
+  - title: @morgangtracey
+    url: https://www.twitter.com/morgangtracey
 footer:
+  - title: Twitter
+    url: https://www.twitter.com/morgangtracey
+  - title: Instagram
+    url: https://www.instagram.com/morgangtracey
   - title: Credits
     url: /
