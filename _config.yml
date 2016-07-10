@@ -1,8 +1,8 @@
 # Site settings
-title: Skeleton
+title: Morgan Tracey
 email: your-email@domain.com
-description: "The Skeleton Jekyll theme"
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+description: "The personal website of Morgan Tracey, US skeleton athlete, attorney, and wildland firefighter"
+url: "https://morgantracey.github.io" # the base hostname & protocol for your site
 locale: "en"
 
 # Build settings

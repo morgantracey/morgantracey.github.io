@@ -1,8 +1,8 @@
 // Colors
 $color-primary: #369;
 $background-color: #fff;
-$text-color: #323a45;
-$link-color: $color-primary;
+$text-color: rgb(68, 68, 68);
+$link-color: rgb(8, 133, 194);
 $color-muted: #ccc;
 $color-borders: #eee;
 
@@ -29,7 +29,7 @@ $max-container-width: 700px;
 // Branding
 $brand-font: $font-sans;
 $brand-font-size: 1.8rem;
-$brand-color: #2a2a2a;
+$brand-color: #fff;
 $brand-text-transform: none;
 $brand-color--hover: darken($brand-color, 15%);
 $brand-text-decoration--hover: none;
@@ -41,9 +41,9 @@ $avatar-height: 125px;
 
 // Header
 $header-font: $font-sans;
-$header-background: #fff;
-$header-padding: 1rem;
-$header-link-color: #2a2a2a; // plain header links, outside navs
+$header-background: #2a2a2a;
+$header-padding: 1.5rem;
+$header-link-color: #fff; // plain header links, outside navs
 $header-link-color--hover: darken($header-link-color, 15%);
 $header-border-style: 1px solid; // leave empty string if none ""
 $header-border-color: $color-borders;
@@ -60,9 +60,9 @@ $nav-text-decoration: none;
 $nav-text-decoration--hover: none;
 
 // Footer
-$footer-background: $header-background;
+$footer-background: #fff;
 $footer-padding: $header-padding;
-$footer-link-color: $header-link-color;
+$footer-link-color: $color-muted;
 $footer-width: $header-width;
 $footer-border-style: 1px solid;
 $footer-border-color: $header-border-color;
