@@ -1,6 +1,6 @@
 ---
 title: Food for thought
-date: 2012-08-22 01:19:00 Z
+date: 2012-08-21 18:19:00 -07:00
 layout: post
 ---
 

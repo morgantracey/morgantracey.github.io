@@ -1,6 +1,6 @@
 ---
 title: Doing my part
-date: 2012-08-21 04:02:00 Z
+date: 2012-08-20 21:02:00 -07:00
 layout: post
 ---
 

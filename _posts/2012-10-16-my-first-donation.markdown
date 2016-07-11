@@ -1,6 +1,6 @@
 ---
 title: My first donation!
-date: 2012-10-17 01:33:00 Z
+date: 2012-10-16 18:33:00 -07:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: A little motivation
-date: 2013-01-25 02:27:00 Z
+date: 2013-01-24 19:27:00 -07:00
 type: 
 assets:
 - path: "/uploads/20130124-200918.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Fire days
-date: 2013-07-21 00:50:00 Z
+date: 2013-07-20 17:50:00 -07:00
 type: 
 assets:
 - path: "/uploads/fire-days.jpg"

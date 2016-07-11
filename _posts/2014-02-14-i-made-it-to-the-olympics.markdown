@@ -1,6 +1,6 @@
 ---
 title: I made it to the Olympics!
-date: 2014-02-14 13:24:00 Z
+date: 2014-02-14 06:24:00 -07:00
 assets:
 - path: "/uploads/20140214-103714-am.jpg"
 - path: "/uploads/20140214-103736-am.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Local Coverage
-date: 2012-08-23 01:19:00 Z
+date: 2012-08-22 18:19:00 -07:00
 layout: post
 ---
 

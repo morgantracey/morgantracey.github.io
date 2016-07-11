@@ -9,6 +9,16 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 email: your-email@domain.com
 description: The personal website of Morgan Tracey, US skeleton athlete, attorney,
   and wildland firefighter
@@ -24,17 +34,3 @@ exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
-
-defaults:
-# everything is a page, except for posts
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"

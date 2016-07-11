@@ -1,6 +1,6 @@
 ---
 title: I want to inspire people
-date: 2013-08-17 00:47:00 Z
+date: 2013-08-16 17:47:00 -07:00
 type: aside
 assets:
 - path: "/uploads/inspire.jpg"

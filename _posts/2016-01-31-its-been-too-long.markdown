@@ -1,6 +1,6 @@
 ---
 title: It's been too long
-date: 2016-01-31 19:32:00 Z
+date: 2016-01-31 12:32:00 -07:00
 assets:
 - path: "/uploads/skeleton usa.jpg"
   name: skeleton usa

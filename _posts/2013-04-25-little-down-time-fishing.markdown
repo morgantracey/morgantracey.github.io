@@ -1,6 +1,6 @@
 ---
 title: Little down time... fishing
-date: 2013-04-26 01:13:00 Z
+date: 2013-04-25 18:13:00 -07:00
 type: 
 assets:
 - path: "/uploads/20130425-150551.jpg"

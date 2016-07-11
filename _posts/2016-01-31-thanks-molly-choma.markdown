@@ -1,6 +1,6 @@
 ---
 title: Thanks Molly Choma!
-date: 2016-01-31 19:50:00 Z
+date: 2016-01-31 12:50:00 -07:00
 assets:
 - path: "/uploads/mollychomaphotography-USABS-513.jpg"
   name: mollychomaphotography-USABS-513

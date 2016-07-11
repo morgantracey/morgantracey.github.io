@@ -1,6 +1,6 @@
 ---
 title: The Prowler
-date: 2013-06-11 01:05:00 Z
+date: 2013-06-10 18:05:00 -07:00
 type: 
 assets:
 - path: "/uploads/20130610-091652.jpg"

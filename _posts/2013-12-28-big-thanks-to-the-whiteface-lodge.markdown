@@ -1,6 +1,6 @@
 ---
 title: Big thanks to the Whiteface Lodge
-date: 2013-12-29 05:34:00 Z
+date: 2013-12-28 22:34:00 -07:00
 ---
 
 A little publicity from the recent fundraiser the Whiteface Lodge did for their four employes with big Olympic dreams.

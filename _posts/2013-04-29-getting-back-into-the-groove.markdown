@@ -1,6 +1,6 @@
 ---
 title: Getting back into the groove
-date: 2013-04-30 01:11:00 Z
+date: 2013-04-29 18:11:00 -07:00
 type: 
 assets:
 - path: "/uploads/20130429-195927.jpg"

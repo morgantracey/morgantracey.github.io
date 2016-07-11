@@ -1,6 +1,6 @@
 ---
 title: People always ask why I loved being a Hotshot
-date: 2013-07-16 00:55:00 Z
+date: 2013-07-15 17:55:00 -07:00
 type: 
 ---
 
