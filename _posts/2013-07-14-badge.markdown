@@ -1,0 +1,9 @@
+---
+title: Badge
+date: 2013-07-14 00:59:00 Z
+type: aside
+assets:
+- path: "/uploads/20130714-233210.jpg"
+---
+
+![20130714-233210](/uploads/20130714-233210.jpg) 

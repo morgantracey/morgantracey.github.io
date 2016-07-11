@@ -5,6 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
+    layout: posts
   uploads:
     title: Uploads
     output: true
@@ -23,3 +24,17 @@ exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
+
+defaults:
+# everything is a page, except for posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

@@ -1,0 +1,13 @@
+---
+title: Fire days
+date: 2013-07-21 00:50:00 Z
+type: 
+assets:
+- path: "/uploads/fire-days.jpg"
+  name: fire-days
+  caption: Back to my fire days!
+---
+
+![fire-days](/uploads/fire-days.jpg) 
+
+Back to my fire days!

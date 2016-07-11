@@ -1,0 +1,9 @@
+---
+title: I want to inspire people
+date: 2013-08-17 00:47:00 Z
+type: aside
+assets:
+- path: "/uploads/inspire.jpg"
+---
+
+![inspire](/uploads/inspire.jpg) 
