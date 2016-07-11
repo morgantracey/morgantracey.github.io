@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Skeleton
-permalink: /skeleton/
+permalink: "/skeleton/"
+layout: page
 ---
 
 Skeleton is a Winter Olympic sport where an ahtlete sprints as fast as they can pushing what is essentially a 75 pound, overpriced cookie sheet before jumping on and going head first down a sheet of ice at upwards of 90 mph. Wanna know more?

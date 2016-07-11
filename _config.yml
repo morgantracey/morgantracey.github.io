@@ -1,22 +1,25 @@
-# Site settings
+---
 title: Morgan Tracey
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: your-email@domain.com
-description: "The personal website of Morgan Tracey, US skeleton athlete, attorney, and wildland firefighter"
-url: "https://morgantracey.github.io" # the base hostname & protocol for your site
-locale: "en"
-
-# Build settings
+description: The personal website of Morgan Tracey, US skeleton athlete, attorney,
+  and wildland firefighter
+url: https://morgantracey.github.io
+locale: en
 markdown: kramdown
-permalink: /:title
-
-# Sitewide customizations
+permalink: "/:title"
 show-social-links-in-footer: true
-
-# Files
 include:
-  - _pages
+- _pages
 exclude:
-  - LICENSE
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+- LICENSE
+- README.md
+- Gemfile
+- Gemfile.lock

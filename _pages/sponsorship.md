@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Sponsorship
-permalink: /sponsorship/
+permalink: "/sponsorship/"
+layout: page
 ---
 
 Skeleton athletes are largely self-funded. Outside of my training (which is itself a fulltime commitment), I work two  jobs to help cover the cost of training, travel, and equipment expenses.

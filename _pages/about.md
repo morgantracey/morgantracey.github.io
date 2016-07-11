@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 Morgan Tracey is the youngest of five children from Champion, Ohio. Morgan is also the only girl. Whether good or bad, Morgan’s older brothers made Morgan into the woman she is today, tough and tenacious. Never backing down from a challenge Morgan had her heart set on getting a soccer scholarship and becoming an attorney. To the shock of no one Morgan accomplished both, but as usual, on her own terms.
