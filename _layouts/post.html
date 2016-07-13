@@ -10,4 +10,9 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+
+  {% if site.show-share-buttons %}
+    {% include share-buttons.html %}
+  {% endif %}
+
 </article>

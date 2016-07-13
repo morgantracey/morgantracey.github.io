@@ -11,6 +11,7 @@ permalink: /:title
 
 # Sitewide customizations
 show-social-links-in-footer: true
+show-share-buttons: true
 
 # Files
 include:
