@@ -1,6 +1,6 @@
 ---
 title: From Russia with love
-date: 2014-02-19 14:13:00 Z
+date: 2014-02-19 07:13:00 -07:00
 type: aside
 ---
 

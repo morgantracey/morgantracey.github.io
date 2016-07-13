@@ -1,9 +1,0 @@
----
-title: Mantra
-date: 2013-03-26 01:22:00 Z
-type: 
-assets:
-- path: "/uploads/20130325-120649.jpg"
----
-
-![20130325-120649](/uploads/20130325-120649.jpg) 
