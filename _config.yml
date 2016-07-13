@@ -22,7 +22,7 @@ defaults:
 email: your-email@domain.com
 description: The personal website of Morgan Tracey, US skeleton athlete, attorney,
   and wildland firefighter
-url: https://morgantracey.github.io
+url: http://www.morgantracey.us
 locale: en
 markdown: kramdown
 permalink: "/:title"
