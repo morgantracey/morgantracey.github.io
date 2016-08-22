@@ -6,4 +6,4 @@ type:
 
 This is why.
 
-http://www.elephantjournal.com/2013/07/to-the-hotshots-who-died-from-your-sister-jenna-penielle-lyons/
+[http://www.elephantjournal.com/2013/07/to-the-hotshots-who-died-from-your-sister-jenna-penielle-lyons/](http://www.elephantjournal.com/2013/07/to-the-hotshots-who-died-from-your-sister-jenna-penielle-lyons/)
