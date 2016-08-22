@@ -1,5 +1,5 @@
 ---
-title: Mt. Van Hoevenburgh
+title: Mt. Van Hoevenberg
 date: 2013-11-12 17:28:00 -07:00
 type: 
 assets:
