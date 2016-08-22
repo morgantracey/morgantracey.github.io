@@ -2,9 +2,13 @@
 layout: page
 ---
 
-**Skeleton** is a minimal jekyll theme that is focused on content. You can use it as is (see [kyletress.com](http://www.kyletress.com)) or you can customize it to fit your needs. It is a constant work in progress.
+Hi I'm **Morgan**. I'm an Olympic hopeful, attorney, wildland firefighter, and AmeriCorps alumni from Champion, Ohio.
 
-Built by [Kyle Tress](http://www.kyletress.com). 
+I'm the youngest of 5 children (and the only girl). Whether good or bad, my older brothers made me into the woman I am today -- tough and tenacious.
+
+Recently, I was invited to the White House by President Obama and honored as a [Champion of Change](https://www.whitehouse.gov/champions) for commitment to national service. Now, I'm part of the United States National Skeleton Program, with my sights on the 2018 Winter Olympic Games in Pyeongchang, South Korea.
+
+Here [what I'm doing now](/now).
 
 <h2>Recent</h2>
 <ul class="post-list">
