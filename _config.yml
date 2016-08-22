@@ -20,7 +20,8 @@ defaults:
   values:
     layout: post
 email: morgan@morgantracey.us
-description: The personal website of Morgan Tracey, US skeleton athlete, attorney, and wildland firefighter
+description: The personal website of Morgan Tracey, US skeleton athlete, attorney,
+  and wildland firefighter
 url: http://www.morgantracey.us
 locale: en
 markdown: kramdown
