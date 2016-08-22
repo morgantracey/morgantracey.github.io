@@ -30,8 +30,6 @@ tagline: From Lawsuit to Speedsuit
 show-social-links-in-footer: true
 show-share-buttons: true
 quote: Carpe Diem
-include:
-- _pages
 exclude:
 - LICENSE
 - README.md
